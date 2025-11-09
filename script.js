@@ -1,7 +1,7 @@
 // ===== CONFIGURAÇÃO DA API =====
 // IMPORTANTE: Substitua 'SUA_CHAVE_API_AQUI' pela sua chave da API do TMDb
 // Obtenha sua chave gratuita em: https://www.themoviedb.org/settings/api
-const API_KEY = '5d46e476b094dc262fb307b361b726fa';
+const API_KEY = 'YOU_API_KEY';
 const API_BASE_URL = 'https://api.themoviedb.org/3';
 const IMG_BASE_URL = 'https://image.tmdb.org/t/p/w500';
 const IMG_BASE_URL_ORIGINAL = 'https://image.tmdb.org/t/p/original';
